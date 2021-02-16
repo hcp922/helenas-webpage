@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Currently interning at Micron Technology{{< staticref "www.micron.com" "newtab" >}}Micron{{< /staticref >}}. I am a fourth-year Ph.D. student in the Computer Systems Lab (CSL) at Cornell University, under the supervision of Professor José Martínez. I am interested in designing new architectures that blend the memory and processing units. I am currently part of the Center for Research in Intelligent Storage and Processing in Memory (CRISP) and Center on Durable, Energy-Efficient, Pausable Processing in Polymorphic Memories (DEEP3M).
+Currently interning at {{< a href="www.micron.com" "newtab" >}}Micron Technology{{< /a >}}. I am a fourth-year Ph.D. student in the Computer Systems Lab (CSL) at Cornell University, under the supervision of Professor José Martínez. I am interested in designing new architectures that blend the memory and processing units. I am currently part of the Center for Research in Intelligent Storage and Processing in Memory (CRISP) and Center on Durable, Energy-Efficient, Pausable Processing in Polymorphic Memories (DEEP3M).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-hcaminal.pdf" "newtab" >}}cv{{< /staticref >}}.
