@@ -6,7 +6,7 @@ title: Helena Caminal
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,6 +28,9 @@ education:
   - course: Ph.D. in Electrical and Computer Engineering
     institution: Cornell University
     year: current
+  - course: M.Sc. in Electrical and Computer Engineering
+    institution: Cornell University
+    year: 2020
   - course: MS of Research in High-Performance Computing
     institution: Universitat Politecnica de Catalunya
     year: 2017
@@ -61,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-Currently interning at Micron Technology. I am a fourth-year Ph.D. student in the Computer Systems Lab (CSL) at Cornell University, under the supervision of Professor José Martínez. I am interested in designing new architectures that blend the memory and processing units. I am currently part of the Center for Research in Intelligent Storage and Processing in Memory (CRISP) and Center on Durable, Energy-Efficient, Pausable Processing in Polymorphic Memories (DEEP3M).
+Currently interning at Micron Technology. I am a Ph.D. candidate in the Computer Systems Lab (CSL) at Cornell University, under the supervision of Professor José Martínez. I am interested in designing new architectures that blend the memory and processing units. I am currently part of the Center for Research in Intelligent Storage and Processing in Memory (CRISP) and Center on Durable, Energy-Efficient, Pausable Processing in Polymorphic Memories (DEEP3M).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-hcaminal.pdf" "newtab" >}}cv{{< /staticref >}}.
