@@ -29,6 +29,7 @@ experience:
     date_start: '2021-02-08'
     date_end: ''
     description: Emergent memory optimization
+    Mentor: Ameen Akel
   - title: Research assistant
     company: Barcelona Supercomputing Center
     company_url: ''
