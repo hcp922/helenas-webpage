@@ -37,19 +37,25 @@ experience:
     location: Barcelona, Spain
     date_start: '2015-07-01'
     date_end: '2017-07-01'
-    description: Emergent memory optimization
+    description: |2-
+      Vector architectures for exascale
+      * Mentors: Marc Casas and Miquel Moretó
   - title: Intern
     company: Arm
     company_url: ''
     location: Cambridge, UK
     date_start: '2016-07-01'
     date_end: '2016-10-01'
-    description: Explore expressibility of the Scalable Vector Extension
+    description: |2-
+      Explore expressibility of the Scalable Vector Extension
+      * Mentor: Rekai González-Alberquilla
   - title: Research assistant
     company: Institut de Recherches Interdisciplinaires et de Développements en Intelligence Artificielle
     company_url: ''
     location: Brussels, Belgium
     date_start: '2014-03-01'
     date_end: '2014-11-01'
-    description: Design and prototype fabrication of a mobile robotic platform capable of stereo vision and blob detection for swarm robotics
+    description: |2-
+      Design and prototype fabrication of a mobile robotic platform capable of stereo vision and blob detection for swarm robotics
+      * Mentor: Carlo Pinciroli
 ---
