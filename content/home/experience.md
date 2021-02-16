@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |2-
       Emergent memory optimization
-      * Mentor: Ameen Akel
+      * advised by: Ameen Akel
   - title: Research assistant
     company: Barcelona Supercomputing Center
     company_url: ''
@@ -39,7 +39,7 @@ experience:
     date_end: '2017-07-01'
     description: |2-
       Vector architectures for exascale
-      * Mentors: Marc Casas and Miquel Moretó
+      * advised by: Marc Casas and Miquel Moretó
   - title: Intern
     company: Arm
     company_url: ''
@@ -48,7 +48,7 @@ experience:
     date_end: '2016-10-01'
     description: |2-
       Explore expressibility of the Scalable Vector Extension
-      * Mentor: Rekai González-Alberquilla
+      * advised by: Rekai González-Alberquilla
   - title: Research assistant
     company: Institut de Recherches Interdisciplinaires et de Développements en Intelligence Artificielle
     company_url: ''
@@ -57,5 +57,5 @@ experience:
     date_end: '2014-11-01'
     description: |2-
       Design and prototype fabrication of a mobile robotic platform capable of stereo vision and blob detection for swarm robotics
-      * Mentor: Carlo Pinciroli
+      * advised by: Carlo Pinciroli and Anthony Antoun
 ---
