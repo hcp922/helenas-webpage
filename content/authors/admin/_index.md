@@ -6,7 +6,7 @@ title: Helena Caminal
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student in Computer Engineering
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,14 +25,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Computer Engineering
+  - course: Ph.D. in Electrical and Computer Engineering
     institution: Cornell University
     year: current
   - course: MS of Research in High-Performance Computing
-    institution: FIB, Universitat Politecnica de Catalunya
+    institution: Universitat Politecnica de Catalunya
     year: 2017
   - course: BSc in Industrial Engineering
-    institution: ETSEIB, Universitat Politecnica de Catalunya
+    institution: Universitat Politecnica de Catalunya
     year: 2014
 
 # Social/Academic Networking
