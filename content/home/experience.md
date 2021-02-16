@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Intern
+    company: Micron Technology
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: (remote) Folsom, California
+    date_start: '2021-02-08'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    description: Emergent memory optimization
+  - title: Research assistant
+    company: Barcelona Supercomputing Center
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Barcelona, Spain
+    date_start: '2015-07-01'
+    date_end: '2017-07-01'
+    description: Emergent memory optimization
+  - title: Intern
+    company: Arm
+    company_url: ''
+    location: Cambridge, UK
+    date_start: '2016-07-01'
+    date_end: '2016-10-01'
+    description: Explore expressibility of the Scalable Vector Extension
+  - title: Research assistant
+    company: Institut de Recherches Interdisciplinaires et de Développements en Intelligence Artificielle
+    company_url: ''
+    location: Brussels, Belgium
+    date_start: '2014-03-01'
+    date_end: '2014-11-01'
+    description: Design and prototype fabrication of a mobile robotic platform capable of stereo vision and blob detection for swarm robotics
 ---
