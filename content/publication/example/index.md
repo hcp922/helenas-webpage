@@ -13,7 +13,7 @@ authors:
 - Tianshu Wu
 - Vijaykrishnan Narayanan
 - Christopher Batten
-- Jos´e F. Mart´ınez
+- José F. Martínez
 
 date: ""
 doi: ""
