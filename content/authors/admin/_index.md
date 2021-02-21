@@ -31,10 +31,10 @@ education:
   - course: M.Sc. in Electrical and Computer Engineering
     institution: Cornell University
     year: 2020
-  - course: MS of Research in High-Performance Computing
+  - course: M.Sc. of Research in High-Performance Computing
     institution: Universitat Politecnica de Catalunya
     year: 2017
-  - course: BSc in Industrial Engineering
+  - course: B.Sc. in Industrial Engineering
     institution: Universitat Politecnica de Catalunya
     year: 2014
 
