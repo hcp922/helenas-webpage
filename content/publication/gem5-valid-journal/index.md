@@ -1,19 +1,16 @@
 ---
-title:  "Using Arm’s Scalable Vector Extension on Stencil Codes"
+title:  "Semi-automatic validation of cycle-accurate simulation infrastructures: The case for gem5-x86"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Adrià Armejach
-- admin
 - Juan M. Cebrian
-- Rubén Langarita
-- Rekai González-Alberquilla
-- Chris Adeniyi-Jones
-- Mateo Valero
-- Marc Casas
+- Adrián Barredo
+- admin
 - Miquel Moretó
+- Marc Casas
+- Mateo Valero
 
 date: ""
 doi: ""
@@ -28,10 +25,10 @@ publishDate: "2020-01-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Journal of Supercomputing (March 2020)*
-publication_short: In *The Journal of Supercomputing (March 2020)*
+publication: In *Future Generation Computer Systems (November 2020)*
+publication_short: In *Future Generation Computer Systems (November 2020)*
 
-abstract: Since the early 70s, simulation infrastructures have been a keystone in computer architecture research, providing a fast and reliable way to prototype and evaluate ideas for future computing systems. There are different types of simulators, from most detailed (cycle-accurate) to time-based functional and analytical modeling. Increasing accuracy translates into several orders of magnitude in terms of simulation speed. Yet, a question remains open: are the results derived from the simulation infrastructure representative of a real machine?
+abstract: 
 
 
 # Summary. An optional shortened abstract.
