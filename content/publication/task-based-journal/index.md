@@ -18,7 +18,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-15T00:00:00Z"
+publishDate: "2018-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The Journal of Supercomputing (March 2018)*
-publication_short: In *The Journal of Supercomputing (March 2028)*
+publication_short: In *The Journal of Supercomputing (March 2018)*
 
 abstract: Heterogeneity, parallelization and vectorization are key techniques to improve the performance and energy efficiency of modern computing systems. However, programming and maintaining code for these architectures poses a huge challenge due to the ever-increasing architecture complexity. Task-based environments hide most of this complexity, improving scalability and usage of the available resources. In these environments, while there has been a lot of effort to ease parallelization and improve the usage of heterogeneous resources, vectorization has been considered a secondary objective. Furthermore, there has been a swift and unstoppable burst of vector architectures at all market segments, from embedded to HPC. Vectorization can no longer be ignored, but manual vectorization is tedious, error-prone and not practical for the average programmer. This work evaluates the feasibility of user-directed vectorization in task-based applications. Our evaluation is based on the OmpSs programming model, extended to support user-directed vectorization for different SIMD architectures (i.e., SSE, AVX2, AVX512). Results show that user-directed codes achieve manually optimized code performance and energy efficiency with minimal code modifications, favoring portability across different SIMD architectures.
 
