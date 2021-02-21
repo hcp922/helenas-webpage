@@ -18,7 +18,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-02-15T00:00:00Z"
+publishDate: "2018-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,10 +27,10 @@ publishDate: "2021-02-15T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA-27), Seoul, South Korea*
-publication_short: In *HPCA 2021, Seoul, South Korea*
+publication: In *The 27th International Conference on Parallel Architectures and Compilation Techniques 2018 (PACT'18)*
+publication_short: In *PACT 2018*
 
-abstract: Processing-in-memory (PIM) architectures attempt to overcome the von Neumann bottleneck by combining computation and storage logic into a single component. The contentaddressable parallel processing paradigm (CAPP) from the seventies is an in situ PIM architecture that leverages contentaddressable memories to realize bit-serial arithmetic and logic operations, via sequences of search and update operations over multiple memory rows in parallel. In this paper, we set out to investigate whether the concepts behind classic CAPP can be used successfully to build an entirely CMOS-based, general-purpose microarchitecture that can deliver manyfold speedups while remaining highly programmable. We conduct a full-stack design of a Content-Addressable Processing Engine (CAPE), built out of dense push-rule 6T SRAM arrays. CAPE is programmable using the RISC-V ISA with standard vector extensions. Our experiments show that CAPE achieves an average speedup of 14 (up to 254) over an area-equivalent (slightly under 9mm2 at 7 nm) out-of-order processor core with three levels of caches.
+abstract: Data-level parallelism is frequently ignored or underutilized. Achieved through vector/SIMD capabilities, it can provide substantial performance improvements on top of widely used techniques such as thread-level parallelism. However, manual vectorization is a tedious and costly process that needs to be repeated for each specific instruction set or register size. In addition, automatic compiler vectorization is susceptible to code complexity, and usually limited due to data and control dependencies. To address some these issues, Arm recently released a new vector ISA, the Scalable Vector Extension (SVE), which is Vector-Length Agnostic (VLA). VLA enables the generation of binary files that run regardless of the physical vector register length.
 
 # Summary. An optional shortened abstract.
 summary: []
